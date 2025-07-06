@@ -1,5 +1,5 @@
 apply plugin: 'java'
-apply plugin: 'maven'
+
 
 group = 'com.dev3l.hello_world'
 version = '1.0-SNAPSHOT'
