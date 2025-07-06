@@ -9,6 +9,10 @@
 *.ear
 target/*
 
+# Allow Gradle Wrapper JAR file (required for Jenkins build)
+!gradle/wrapper/gradle-wrapper.jar
+
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
